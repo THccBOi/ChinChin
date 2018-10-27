@@ -1,5 +1,5 @@
 def yoMammaGay(self){
-    print("u r mom gay")
+    print("u r mom gay, twice")
 }
 
 yoMammaGay()
